@@ -9,7 +9,6 @@ html {
 }
 
 /*  header starts  */
-
 .Header-Container {
     display: flex;
 }
@@ -267,7 +266,6 @@ main .Banner h1:last-child {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .Service-Info {
@@ -435,5 +433,6 @@ p {
 .Footer-Img div p span:hover {
     text-decoration: underline;
 }
+
 /*  footer img and trademark ends  */
 /*  footer ends  */
